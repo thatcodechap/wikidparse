@@ -1,0 +1,26 @@
+{
+  "name": "wikidparse",
+  "version": "1.0.0",
+  "description": "Fast and lightweight parser for Wikitionary pages",
+  "main": "./src/index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatcodechap/wikidparse.git"
+  },
+  "dependencies": {
+    "htmlparser2": "^9.0.0"
+  },
+  "keywords": [
+    "wiki",
+    "html",
+    "parser",
+    "wikitionary"
+  ],
+  "author": "Manjunath Bhat K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatcodechap/wikidparse/issues"
+  },
+  "homepage": "https://github.com/thatcodechap/wikidparse#readme"
+}
